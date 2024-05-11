@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <malloc.h>
+#include <process.h>
 
 struct node {
     int data;
